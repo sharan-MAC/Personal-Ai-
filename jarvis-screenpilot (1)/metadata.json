@@ -1,0 +1,5 @@
+{
+  "name": "JARVIS ScreenPilot",
+  "description": "A sophisticated AI assistant that sees, hears, and acts. Your personal Jarvis for the web.",
+  "requestFramePermissions": ["microphone", "camera"]
+}
