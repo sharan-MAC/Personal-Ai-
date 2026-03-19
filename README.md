@@ -39,3 +39,4 @@ The Solution: "ScreenPilot sees what you see and acts for you."
 Live Demo: "Find the cheapest MacBook on Amazon."
 Conclusion: "The future of HCI is agentic."
 Developed for the Gemini Live Agent Challenge.
+
